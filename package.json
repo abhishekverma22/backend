@@ -7,7 +7,6 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhishekverma22/backend.git"
@@ -20,6 +19,7 @@
   },
   "homepage": "https://github.com/abhishekverma22/backend#readme",
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.6.2"
   }
 }
